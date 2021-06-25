@@ -15,7 +15,7 @@ Programa na qual mostra a quantidade de usuários e quantos desses estão classi
 
 ## Como usar
 
-###Pré requisitos:
+### Pré requisitos:
 - java 8 pra cima
 - Arquivo para obtenção dos dados
 	- Os ids dos usuários devem conter o DDI no inicio
